@@ -6,5 +6,5 @@ faqs.forEach((faq) => {
         faq.classList.toggle("active");
         icon.classList.rem("fa-cirlce-plug");
         icon.classList.toggle("fa-circle-minus");
-    })
-})
+    });
+});
